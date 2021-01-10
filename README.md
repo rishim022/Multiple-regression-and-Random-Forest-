@@ -2,7 +2,7 @@
 I have prepared a model using dataset from https://str.com/ and https://www.failteireland.ie/
 
 Installation and Usage
-I was not able to upload the .csv dataset as it is larger than 25MB. It is available as a .zip file from the str if requested from the mentioned link https://str.com/training/academic-resources/share-center. 
+I was not able to upload the .csv dataset as it is larger than 25MB. It is available as a .zip file from the str if requested by a college/university from the mentioned link https://str.com/training/academic-resources/share-center. 
 Install the requirements for this project in R and you will be ready to go.
 
 Motivation
